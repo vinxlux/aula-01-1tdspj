@@ -9,3 +9,10 @@ Este é meu repositorio no github. Estou começando minha jornada no mundo da pr
 - Projetos simples e tutoriais
 - Anotações e dicas
 - Experimentos com código
+
+# O que será aprendido neste semestre?
+
+- HTML
+- CSS
+- JavaScript
+- Git e GitHub
